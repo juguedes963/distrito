@@ -1,0 +1,35 @@
+.carrosel{
+    width: 85vw;
+    text-align: center;
+    padding: 241px;
+    margin: -229px auto;
+
+}
+@media only screen and (max-width: 520px) {
+    .carrosel{
+        width: 100vw!important;
+     
+        padding: 0px!important;
+        margin: 0px auto!important;
+    
+    }
+    .carousel {
+        position: relative;
+        margin-top: -331px;
+    }
+    .bg-dark{
+        background-color:  #4f1233b5!important;
+        z-index: 9999;
+     }
+  }
+.carrosel img{
+    width: auto;
+}
+.bg-dark{
+   background-color:  #4f1233b5!important;
+
+}
+.nav header{
+    width: 99vw;
+    height: 13vh;
+}

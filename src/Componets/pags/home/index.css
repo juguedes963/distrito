@@ -1,0 +1,10 @@
+.container-fluid{
+    width: 100vw;
+    height: 100vh;
+}
+
+.row{
+    width: 101vw;
+    height: 100vh;
+    display: flex;
+}
